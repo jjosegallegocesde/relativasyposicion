@@ -25,3 +25,27 @@
     background-color: green;
     display: inline-block;
 }
+
+.caja5 {
+    height: 300px;
+    width: 300px;
+    background-color: darkmagenta;
+    position: static;
+    left: 20px;
+    bottom: 20px;
+}
+
+.goku {
+    height: 600px;
+    width: 600px;
+    background-color: green;
+    position: relative;
+}
+
+.gohan {
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+    position: absolute;
+    top: 0px;
+}
